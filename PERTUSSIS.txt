@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<img src="ptts.png" width="1300" height="600">
+<h1><head><b><center>WHAT IS PERTUSSIS?</center></h1>
+<br>
+<body>
+<p><center><p style="font-family:courier;">A highly contagious respiratory illness. People who have pertussis, also known as "whooping cough," often make the "whooping" sound when they are coughing out of control. Coughing periods caused on by whooping cough can be sudden, intense, and uncontrollable, lasting until all air is expelled from the lungs. It can last for up to 10 weeks and more.</p></center>
+<p><b><p style="font-size:125%;">CAUSES AND TRANSMISSION </b><p>
+<p style="font-family:courier;">Pertussis is caused by either Bordetella pertussis or Bordetella parapertussis. The bacteria can be easily transferred from person to person through the air by coughing or sneezing. It then releases tiny particles containing bacteria, which can be inhaled by the other people. Furthermore, it can also spread when there is a shared breathing space or an open area. For example, carrying a newborn in the chest. </p>
+<p><b><p style="font-size:125%;">CLINICAL SIGNS AND SYMPTOMS </b><p>
+<p><i> EARLY SYMPTOMS: STAGE 1 (Catarrhal Phase)</i></p>
+<ul>
+<li><p style="font-family:courier;">May last for 1 to 2 weeks</li>
+<li><p style="font-family:courier;">Runny or stuffed-up nose</li>
+<li><p style="font-family:courier;">Low-grade fever (less than 100.4°F)</li>
+<li><p style="font-family:courier;">Mild, occasional cough (babies do not do this)</li>
+<li><p style="font-family:courier;">Apnea (life-threatening pauses in breathing) and cyanosis (turning blue or purple) in babies and young children</li>
+</ul>
+<p><i> LATER SYMPTOMS: STAGE 2 (Paroxysmal Phase)</i></p>
+<ul> 
+<li><p style="font-family:courier;">Last 1 to 6 weeks but can last for up to 10 weeks. Paroxysms—rapid, violent, uncontrolled coughing fits occur with whooping cough</li>
+<li><p style="font-family:courier;">Make a high-pitched “whoop” sound when they are finally able to inhale at the end of a coughing fit</li>
+<li><p style="font-family:courier;">Vomit during or after coughing fits</li>
+<li><p style="font-family:courier;">Feel very tired after the fit, but usually seem well in-between fits</li>
+<li><p style="font-family:courier;">Struggle to breathe</li>
+</ul>
+<p><i> RECOVERY: STAGE 3 (Convalescent Phase)</i></p>
+<p><p style="font-family:courier;">About 2 to 3 weeks. Recovery phase is gradual. However, the cough gets milder and less frequent. After a period of time, coughing fits may stop, but they may come back if you develop other respiratory illnesses.Coughing may subside but may also return if there is another respiratory infection. <p>
+<p><p style="font-family:courier;">Infants with whooping cough become cyanotic or bluish instead of presenting with a cough. Teens and adults, especially those who have received the whooping cough vaccination, typically have a milder case of the infection than babies and children.<p>
+<p><b><p style="font-size:125%;">PREVENTION AND TREATMENT<p><b> 
+<p><p style="font-family:courier;"> Vaccination against pertussis is both safe and effective. Pentavalent vaccines protect against Hepatitis B, Hemophilus influenza type B, and "DPT" (Diphtheria, Pertussis, and Tetanus). This vaccine may already be provided for free to infants as young as six weeks in health centers. Children aged one to six years old may receive a booster dose. It strongly encouraged for adults and older children to seek advice from a physician or health center regarding the recommended vaccination. Pregnant mothers may inquire about the "Tdap" vaccination, which offers protection against pertussis for the developing baby. To prevent the transmission of the bacteria, one should cover coughs and sneezing with disposable tissues or wipes, or if not, the elbow or upper arm and not the hands because this mainly spread the bacteria. Hands should be often cleaned with soap and water, or alcohol should be used in such cases. Adults are strongly recommended to safeguard children by properly using face masks, especially in crowded or poorly ventilated settings, as children may not be able to do so regularly. <p>
+
+<p><p style="font-family:courier;"> If the condition occurs, a physician will provide a treatment that must start immediately. Treatment may range from 4 to 14 days, depending on the antibiotic administered and the patient's age and condition. It is crucial to see a physician and take antibiotics exactly as prescribed and finish the prescribed number of days. Early whooping cough treatment can reduce the severity of the sickness and help in preventing the bacteria's ability to infect other people. <p> 
+<p><b><p style="font-size:125%;">MANAGEMENT<p><b>
+<p><p style="font-family:courier;"> Patients who are at risk of serious illness and complications must require hospitalization. The top priority is always to maintain a patent airway; Auscultate lungs for normal or adventitious breath sounds; Assess respirations and record quality, rate, pattern, depth, nostril flaring, dyspnea upon exertion, splinting evidence, and breathing position. Moreover, nursing interventions for a patient with pertussis include: <p>
+<ul>
+<li><p style="font-family:courier;">Educating the patient about coughing and breathing</li>
+<li><p style="font-family:courier;">Promote effective coughing</li>
+<li><p style="font-family:courier;">Educate about proper positioning</li>
+<li><p style="font-family:courier;">Encourage increase in oral fluid intake</li>
+<li><p style="font-family:courier;">Administer medications as prescribed</li>
+</ul>
+<p><b><p style="font-size:125%;">DIAGNOSTIC PROCEDURE<p><b>
+<ul> 
+<li><p style="font-family:courier;">History of signs and symptoms</li>
+<li><p style="font-family:courier;">Physical exam</li>
+<li><p style="font-family:courier;">Laboratory test of a mucus sample from the back of the throat</li>
+<li><p style="font-family:courier;">Blood test</li>
+</ul>
+<p><b><p style="font-size:125%;">REFERENCES</p></b>
+<p><p style="font-family:courier;">Centers for Disease Control and Prevention. (2022, August 4). About whooping cough (pertussis). Centers for Disease Control and Prevention. https://www.cdc.gov/pertussis/about/index.html <p>  
+<p><p style="font-family:courier;">Pertussis cases rising; Gov’t replenishing vaccines, private stocks available. Department of Health. (2024, April 9). https://doh.gov.ph/press-release/pertussis-cases-rising-govt-replenishing-vaccines-private-stocks-available/?fbclid=IwAR3V0kHpsC5J5MalSen_o-y8FBdfVy6dRQp5NH1b4ApXWP0HdOSpQ2n-tAQ#:~:text=Meanwhile%2C%20the%20Philippine%20market%20continues <p>
+<p><p style="font-family:courier;">Doh observing pertussis trends after increasing immunization. Department of Health. (2024a, April 4). https://doh.gov.ph/press-release/doh-observing-pertussis-trends-after-increasing-immunization/?fbclid=IwAR0L2In0Ir0CimQ3Yf-TZK2wIcoSlsnnmnrNiWpma6IlgqR-VFoj75HdFGE <p>
+<p><p style="font-family:courier;">Picture from:<p>
+<p><p style="font-family:courier;">Pertussis. County of Marin Health and Human Services. (n.d.). https://www.marinhhs.org/taxonomy/term/89/all 
+ 
+
+
